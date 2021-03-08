@@ -1,6 +1,6 @@
 def run():
-  print('Potencias de 2 hasta 1000')
-  LIMITE = 1000
+  print('Potencias de 2 hasta 1000000')
+  LIMITE = 1000000
   i = 1
   potencia_2 = 2 ** i
   while potencia_2 < LIMITE:
